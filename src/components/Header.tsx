@@ -27,18 +27,7 @@ function Header(): JSX.Element {
         <img src={avatar} alt="avatar" className="Header__avatar" />
 
         <div className="Header__inner2">
-          <h2><b>YOUR Name</b></h2>
-          <p>
-            <a href="https://www.twitch.tv/vizzillionaire">
-            <img src="https://img.icons8.com/fluency/48/null/twitch.png" alt="twitch" height={'20px'}/>
-            </a>
-            <a href="https://discord.gg/7m5PzFxzM5">
-            <img src="https://img.icons8.com/color/48/null/discord--v2.png" alt="discord" height={'20px'}/>
-            </a>
-            <a href="https://kick.com/vizzillionaire">
-            <img src="/kick.png" alt='' height={'20px'}/>
-            </a>
-          </p>
+          <h2><b>DrowKid</b></h2>
         </div>
       </div>
 
