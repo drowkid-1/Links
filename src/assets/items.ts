@@ -35,10 +35,10 @@ const items: ItemType[] = [{
     "link": "https://twitter.com/drowkid-1"// twitter profile link 
 },
 {
-    "title": "LinkedIn",
-    "subtitle": "Know more about my profession 👨‍💼",
+    "title": "React Apps",
+    "subtitle": "Apps en línea que he creado",
     "image": linkedin,
-    "link": "https://www.linkedin.com/" // linkedin
+    "link": "https://drowkid.vercel.pub/" // linkedin
 },
 {
     "title": "YouTube",
