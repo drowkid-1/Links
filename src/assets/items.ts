@@ -12,13 +12,13 @@ import { SponsorsType } from '../ts';
 
 const items: ItemType[] = [{
     "title": "Website",
-    "subtitle": "Visita mi sitio web",
+    "subtitle": "Visita mi sitio web 🌐",
     "image": website,
     "link": "https://drowkid.bswc.net" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@drowkid-1 | 🏡 Todos mis proyectos de código abierto",
+    "subtitle": "@drowkid-1 | Todos mis proyectos de código abierto  🏡 ",
     "image": github,
     "link": "https://github.com/drowkid-1" //Github Profile link
 },
@@ -30,26 +30,26 @@ const items: ItemType[] = [{
 },
 {
     "title": "Twitter",
-    "subtitle": "@drowkid-1 | 😉",
+    "subtitle": "@drowkid-1 |  Sígueme en Twitter😉",
     "image": twitter,
     "link": "https://twitter.com/drowkid-1"// twitter profile link 
 },
 {
     "title": "React Apps",
-    "subtitle": "Apps en línea que he creado",
+    "subtitle": "Apps en línea que he creado 👽",
     "image": linkedin,
     "link": "https://drowkid.vercel.pub/" // linkedin
 },
 {
     "title": "YouTube",
-    "subtitle": "DrowKid | Official channel of mine",
+    "subtitle": "DrowKid |  Mi canal de YouTube 🎬",
     "image": youtube,
     "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
 },
 
 {
     "title": "Telegram",
-    "subtitle": "@drowkid01 | Chat with me instantly ",
+    "subtitle": "@drowkid01 | Contáctame 💎",
     "image": telegram,
     "link": "https://telegram.me/drowkid01" //Telegram Pofile 
 }]
