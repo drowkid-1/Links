@@ -50,15 +50,6 @@ const items: ItemType[] = [{
     "link": "https://telegram.me/drowkid01" //Telegram Pofile 
 }]
 
-const sponsors: SponsorsType[] = [{
-        "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg",
-        'image': xyz
-    },
-    {
-        'link': 'https://www.instagram.com/heysagnik/',
-        'image': xyz
-    }]
-
-export { items, sponsors }
+export items 
 
 
