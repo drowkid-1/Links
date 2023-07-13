@@ -12,37 +12,37 @@ import { SponsorsType } from '../ts';
 
 const items: ItemType[] = [{
     "title": "Website",
-    "subtitle": "Look at my work!",
+    "subtitle": "Visita mi sitio web",
     "image": website,
-    "link": "https://sagniksahoo.codes" //your personal website or portfolio  link
+    "link": "https://drowkid.bswc.net" //your personal website or portfolio  link
 },
 {
     "title": "GitHub",
-    "subtitle": "@heysagnik | 🏡 to all my open-source projects",
+    "subtitle": "@drowkid-1 | 🏡 Todos mis proyectos de código abierto",
     "image": github,
-    "link": "https://github.com/heysagnik" //Github Profile link
+    "link": "https://github.com/drowkid-1" //Github Profile link
 },
 {
     "title": "Instagram",
-    "subtitle": "@heysagnik |  Shots of my life 🙂",
+    "subtitle": "@lalo_01dk |  Sígueme en mi ig🙂",
     "image": instagram,
-    "link": "https://instagram.com/heysagnik" //instagram profile link 
+    "link": "https://instagram.com/lalo_01dk" //instagram profile link 
 },
 {
     "title": "Twitter",
-    "subtitle": "@heysagnik | 😉",
+    "subtitle": "@drowkid-1 | 😉",
     "image": twitter,
-    "link": "https://twitter.com/heysagnik"// twitter profile link 
+    "link": "https://twitter.com/drowkid-1"// twitter profile link 
 },
 {
     "title": "LinkedIn",
     "subtitle": "Know more about my profession 👨‍💼",
     "image": linkedin,
-    "link": "https://www.linkedin.com/in/heysagnik/" // linkedin
+    "link": "https://www.linkedin.com/" // linkedin
 },
 {
     "title": "YouTube",
-    "subtitle": "CODER SAGNIK | Official channel of mine",
+    "subtitle": "DrowKid | Official channel of mine",
     "image": youtube,
     "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"//youtube channel link 
 },
@@ -55,9 +55,9 @@ const items: ItemType[] = [{
 },
 {
     "title": "Telegram",
-    "subtitle": "@heysagnik | Chat with me instantly ",
+    "subtitle": "@drowkid01 | Chat with me instantly ",
     "image": telegram,
-    "link": "https://telegram.me/heysagnik" //Telegram Pofile 
+    "link": "https://telegram.me/drowkid01" //Telegram Pofile 
 }]
 
 const sponsors: SponsorsType[] = [{
