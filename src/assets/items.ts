@@ -48,12 +48,6 @@ const items: ItemType[] = [{
 },
 
 {
-    "title": "Offer",
-    "subtitle": "villioniare | I can help you to build your dream website ",
-    "image": xyz,
-    "link": "https://discord.com" // Dribbble profile link 
-},
-{
     "title": "Telegram",
     "subtitle": "@drowkid01 | Chat with me instantly ",
     "image": telegram,
