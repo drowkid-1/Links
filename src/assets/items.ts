@@ -5,6 +5,10 @@ import youtube from '../assets/youtube.jpeg'
 import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
+import xyz from '../assets/custom.png' 
+
+import { ItemType } from '../ts';
+import { SponsorsType } from '../ts';
 
 const items: ItemType[] = [{
     "title": "Website",
@@ -50,6 +54,15 @@ const items: ItemType[] = [{
     "link": "https://telegram.me/drowkid01" //Telegram Pofile 
 }]
 
-export items 
+const sponsors: SponsorsType[] = [{
+        "link": "https://drowkidvercel.pub/",
+        'image': xyz
+    },
+    {
+        'link': 'https://www.instagram.com/lalo_01dk/',
+        'image': xyz
+    }]
+
+export { items, sponsors }
 
 
