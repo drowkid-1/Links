@@ -6,6 +6,8 @@ import github from '../assets/github.png'
 import telegram from '../assets/telegram.png'
 import twitter from '../assets/twitter.png'
 import xyz from '../assets/custom.png' 
+import apps from '../assets/android-1.png'
+
 
 import { ItemType } from '../ts';
 import { SponsorsType } from '../ts';
@@ -49,7 +51,7 @@ const items: ItemType[] = [{
 {
     "title": "React Apps Android",
     "subtitle": "Apps para Android que he creado 👽",
-    "image": linkedin,
+    "image": apps,
     "link": "https://drowapps.bswc.net" //Github Profile link
 },
 {
