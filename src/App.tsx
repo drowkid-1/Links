@@ -13,16 +13,6 @@ function App(): JSX.Element {
         <div className = "App" >
             <Header></Header>
             <div className = "container row">
-                <LargeCard
-                    i={0}
-                    link={sponsors[0].link}
-                    cover={sponsors[0].image}>
-                </LargeCard>
-                <LargeCard
-                    i={1}
-                    link={sponsors[1].link}
-                    cover={sponsors[1].image}>
-                </LargeCard>
                 {
                     items.map((item, i: number) => {
                         return(
